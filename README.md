@@ -1,2 +1,2 @@
 # 99Bottles
-Beispiel-Programme 99 Bottles of Beer 
+Python-Programme des Trinkliedes "99 Bottles of Beer". 
