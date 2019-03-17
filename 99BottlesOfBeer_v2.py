@@ -11,4 +11,3 @@ for beers in range(99, 0, -1):
         print("Take one down, pass it around, ", beers-1, "bottles of beer on the wall. \n")
 print(beers-1, "bottles of beer on the wall, ", beers-1, " bottles of beer,")
 print("Go to the store, buy some more, 99 bottles of beer on the wall.")
-
